@@ -1,2 +1,2 @@
 echo "Hello World!"
-cmd: exit 1 
+sleep 600
