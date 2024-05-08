@@ -1,2 +1,2 @@
 echo "Hello World!"
-sleep 600
+cmd: sleep 600
